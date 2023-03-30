@@ -1,0 +1,14 @@
+.AppDiv {
+    margin-left: 10%;
+    /* background-color: aqua; */
+}
+
+.App {
+    font-family: sans-serif;
+    text-align: center;
+}
+#xtermLogin{
+    background-color: aqua;
+    height: 100%;
+    width: 100%;
+}
